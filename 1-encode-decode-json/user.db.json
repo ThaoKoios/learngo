@@ -1,0 +1,20 @@
+{
+    "users": [
+      {
+        "username": "Thao Ho",
+        "password": "change me",
+        "email": "thao.ho@gmail.com"
+      },
+      {
+        "username": "VA",
+        "password": "must change me",
+        "email": "thao.ho@gmail.com"
+      },
+      {
+        "username": "Thao Nhi",
+        "password": "change me",
+        "email": "thao.ho@gmail.com"
+      }
+    ],
+    "type": "Simple"
+  }
