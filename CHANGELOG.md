@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## 1.0.6 2019.07.31
+
+Number parsing exercise
+
 ## 1.0.5 2019.07.31
 
 Correct version 1.0.4 tag
