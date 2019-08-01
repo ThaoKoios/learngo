@@ -9,19 +9,21 @@ import (
 	"os"
 )
 
+// User to store user information
 type User struct {
 	Username string `json:"username,omitempty"`
 	Password string `json:"password,omitempty"`
 	Email    string `json:"email,omitempty"`
 }
 
+// UserDb is the database of user struct
 type UserDb struct {
 	Users []User `json:"users,omitempty"`
 	Type  string `json:"type,omitempty"`
 }
 
 func main() {
-	//createJsonFile()
+	//createJSONFile()
 	f, err := os.Open("user.db.json")
 	if nil != err {
 		log.Fatalln(err)
@@ -35,7 +37,8 @@ func main() {
 
 }
 
-func createJsonFile() {
+// createJSONFile is to format the data into json file format
+func createJSONFile() {
 	users := []User{
 		{Username: "Thao Ho", Password: "change me", Email: "thao.ho@gmail.com"},
 		{Username: "Thao Nhi", Password: "change me", Email: "thao.ho@gmail.com"},
