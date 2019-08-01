@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## 1.0.7 2019.08.01
+
+Error handling exercises
+01-defer-funcs
+02-png-detector
+
 ## 1.0.6 2019.07.31
 
 Number parsing exercise
