@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## 1.0.10 2019.08.06
+
+Re-ogranize the Assignment folder
+
 ## 1.0.9 2019.08.06
 
 Blackjack Project
