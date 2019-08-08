@@ -4,12 +4,12 @@ import "fmt"
 
 const (
 	min = 0
-	max = 0
+	max = 10
 )
 
 func main() {
 	var nums []int
-	for i := min; i <= 10; i++ {
+	for i := min; i <= max; i++ {
 		nums = append(nums, i)
 	}
 

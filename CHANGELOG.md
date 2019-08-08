@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## 1.0.12 2019.08.08
+
+Fixed the go-assigment/even-and-odd code
+
 ## 1.0.11 2019.08.07
 
 Structs & partial Maps exercises
