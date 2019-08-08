@@ -7,11 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## 1.0.14 2019.08.08
+
+Edit the format of changelog history version 1.0.13
+
 ## 1.0.13 2019.08.08
 
-9-interfaces
-    01-first-interface: Interfaces exercises
-    02-http-interface: Http package
+####9-interfaces
+* 01-first-interface: Interfaces exercises
+* 02-http-interface: Http package
 
 ## 1.0.12 2019.08.08
 
