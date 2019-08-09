@@ -7,6 +7,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## 1.0.16 2019.08.09
+
+### 9-interfaces
+
+* 03-writer-interface: finished all secstions
+* special-stephen-grider/interface/01-assignment1: finished the assignement
+* special-stephen-grider/interface/01-assignment2: at the beginning assignment
+
 ## 1.0.15 2019.08.08
 
 Edit the format of changelog history version 1.0.14
