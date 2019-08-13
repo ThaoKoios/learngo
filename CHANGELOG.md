@@ -7,6 +7,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## 1.0.18 2019.08.13
+
+* More exercise about goroutines and channels
+* Swapping values problems with 10-channels-goroutines/08-channels-tour-example: should revisit later
+
 ## 1.0.17 2019.08.12
 
 * special-stephen-grider/interface/02-assignment2: finished
