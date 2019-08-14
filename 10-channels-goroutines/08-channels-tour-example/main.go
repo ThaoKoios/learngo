@@ -17,17 +17,22 @@ func main() {
 	s := []int{0, 4, -9, 8, 2, 7}
 
 	c := make(chan int)
+	// d := make(chan int)
+
 	go sum(s[:len(s)/2], c)
+	// x := <-c
 	go sum(s[len(s)/2:], c)
-	x, y := <-c, <-c // receive from c
+	// y := <-c
+
+	// go sum(s[len(s)/2:], d)
+	x, y := <-c, <-c
+	//x, y := <-c, <-d // receive from c
 
 	//a := &x
 	//b := &y
-	// x := <-c
-
-	// y := <-c
 
 	fmt.Println(x, y, x+y)
+	// fmt.Println(x, y, x+y)
 
 	// fmt.Println(x)
 	// fmt.Println(y)

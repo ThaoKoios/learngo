@@ -7,6 +7,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## 1.0.19 2019.08.14
+
+* More exercise about goroutines and channels
+* Should revisit this source: <https://medium.com/@zufolo/a-pattern-for-limiting-the-number-of-goroutines-in-execution-56e13b226e72>
+
 ## 1.0.18 2019.08.13
 
 * More exercise about goroutines and channels
