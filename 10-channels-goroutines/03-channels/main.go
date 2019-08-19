@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-// Channels are the pipes that connect concureent goroutines. Values can be sent into channels from one goroutine and receive those values into another goroutine
+// Channels are the pipes that connect concurrent goroutines. Values can be sent into channels from one goroutine and receive those values into another goroutine
 
 func main() {
 
