@@ -7,10 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## 1.0.23 2019.08.21
+
+* Exercises: Panic, Defer, Collection functions, String functions
+* Adding some reference soures in README.md to revisit
+
 ## 1.0.22 2019.08.21
 
 * Visualizing how goroutines and channels work
-* Source: https://www.sohamkamani.com/blog/2017/08/24/golang-channels-explained/
+* Source: <https://www.sohamkamani.com/blog/2017/08/24/golang-channels-explained/>
 
 ## 1.0.21 2019.08.20
 
