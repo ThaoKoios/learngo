@@ -7,6 +7,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## 1.0.24 2019.08.28
+
+* Exercises: string formatting, regular expressions, JSON
+* Adding some reference soures in README.md to revisit
+
 ## 1.0.23 2019.08.21
 
 * Exercises: Panic, Defer, Collection functions, String functions
